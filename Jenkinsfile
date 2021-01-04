@@ -31,7 +31,7 @@ pipeline {
                     submoduleCfg: [],
                     userRemoteConfigs: [[
                     credentialsId: 'GitHub_Juesmahe1512',
-                    url:'https://github.com/Juesmahe1512/parking'
+                    url:'https://github.com/Juesmahe1512/ParqueaderoCeiba'
                     ]]
                 ])
             }
