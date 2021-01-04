@@ -1,0 +1,5 @@
+include ':infraestructure'
+include ':application'
+include ':domain'
+include ':presentation'
+rootProject.name = "ParqueaderoCeiba"
